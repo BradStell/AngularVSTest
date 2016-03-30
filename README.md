@@ -2,3 +2,4 @@
 ## Dependencies
 ### NuGet
 * AngularJs.Core (by AngularJs Team)
+  * Optional, can also just download angular.js file from google, or hit CDN

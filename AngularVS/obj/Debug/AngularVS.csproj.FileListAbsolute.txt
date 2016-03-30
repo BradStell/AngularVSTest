@@ -14,14 +14,6 @@ C:\Users\User\Programming\AngularVS\AngularVS\AngularVS\bin\roslyn\VBCSCompiler.
 C:\Users\User\Programming\AngularVS\AngularVS\AngularVS\bin\AngularVS.dll.config
 C:\Users\User\Programming\AngularVS\AngularVS\AngularVS\bin\AngularVS.dll
 C:\Users\User\Programming\AngularVS\AngularVS\AngularVS\bin\AngularVS.pdb
-C:\Users\User\Programming\AngularVS\AngularVS\AngularVS\bin\Microsoft.AI.Agent.Intercept.dll
-C:\Users\User\Programming\AngularVS\AngularVS\AngularVS\bin\Microsoft.AI.DependencyCollector.dll
-C:\Users\User\Programming\AngularVS\AngularVS\AngularVS\bin\Microsoft.AI.PerfCounterCollector.dll
-C:\Users\User\Programming\AngularVS\AngularVS\AngularVS\bin\Microsoft.AI.ServerTelemetryChannel.dll
-C:\Users\User\Programming\AngularVS\AngularVS\AngularVS\bin\Microsoft.AI.Web.dll
-C:\Users\User\Programming\AngularVS\AngularVS\AngularVS\bin\Microsoft.AI.WindowsServer.dll
-C:\Users\User\Programming\AngularVS\AngularVS\AngularVS\bin\Microsoft.ApplicationInsights.dll
-C:\Users\User\Programming\AngularVS\AngularVS\AngularVS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 C:\Users\User\Programming\AngularVS\AngularVS\AngularVS\bin\Microsoft.AI.DependencyCollector.xml
 C:\Users\User\Programming\AngularVS\AngularVS\AngularVS\bin\Microsoft.AI.ServerTelemetryChannel.xml
 C:\Users\User\Programming\AngularVS\AngularVS\AngularVS\bin\Microsoft.AI.Web.xml
@@ -30,3 +22,4 @@ C:\Users\User\Programming\AngularVS\AngularVS\AngularVS\bin\Microsoft.Applicatio
 C:\Users\User\Programming\AngularVS\AngularVS\AngularVS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 C:\Users\User\Programming\AngularVS\AngularVS\AngularVS\obj\Debug\AngularVS.dll
 C:\Users\User\Programming\AngularVS\AngularVS\AngularVS\obj\Debug\AngularVS.pdb
+C:\Users\User\Programming\AngularVS\AngularVS\AngularVS\obj\Debug\AngularVS.csprojResolveAssemblyReference.cache
