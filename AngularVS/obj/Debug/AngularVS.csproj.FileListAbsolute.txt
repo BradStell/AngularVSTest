@@ -28,6 +28,5 @@ C:\Users\User\Programming\AngularVS\AngularVS\AngularVS\bin\Microsoft.AI.Web.xml
 C:\Users\User\Programming\AngularVS\AngularVS\AngularVS\bin\Microsoft.AI.WindowsServer.xml
 C:\Users\User\Programming\AngularVS\AngularVS\AngularVS\bin\Microsoft.ApplicationInsights.xml
 C:\Users\User\Programming\AngularVS\AngularVS\AngularVS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\User\Programming\AngularVS\AngularVS\AngularVS\obj\Debug\AngularVS.csprojResolveAssemblyReference.cache
 C:\Users\User\Programming\AngularVS\AngularVS\AngularVS\obj\Debug\AngularVS.dll
 C:\Users\User\Programming\AngularVS\AngularVS\AngularVS\obj\Debug\AngularVS.pdb
